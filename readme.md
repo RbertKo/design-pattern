@@ -1,6 +1,8 @@
 # Design Pattern
 GoF의 디자인 패턴을 베이스로 진행했으며, 챕터 1과 챕터 2를 뒤 순서에, 챕터 3부터 들어간다.
 
+[Trello](https://trello.com/b/m4zB8vKV/for-my-basic)
+
 ## Usage
 ### Reference Book
 GoF Design Pattern

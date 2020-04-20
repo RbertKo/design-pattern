@@ -1,5 +1,7 @@
 struct Builder {
-
+    fn test(&self) => String {
+        return String::from("blah")
+    }
 }
 
 impl Builder {

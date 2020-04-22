@@ -1,5 +1,6 @@
 struct Coordinate(u8, u8);
 
+#[derive(Clone)]
 struct Circle {
     center: Coordinate,
 }
@@ -10,6 +11,8 @@ impl Circle {
             center
         }
     }
+
+    fn clone(&self) ->
 }
 
 fn main() {

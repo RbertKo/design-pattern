@@ -12,7 +12,9 @@ impl Circle {
         }
     }
 
-    fn clone(&self) ->
+    fn clone(&self) -> {
+        
+    }
 }
 
 fn main() {

@@ -1,20 +1,18 @@
+#[derive(Clone)]
 struct Coordinate(u8, u8);
 
 #[derive(Clone)]
+struct Shape {
+    name: String
+}
+
+
 struct Circle {
-    center: Coordinate,
+
 }
 
 impl Circle {
-    fn new(center: Coordinate) -> Self {
-        Self {
-            center
-        }
-    }
 
-    fn clone(&self) -> {
-        
-    }
 }
 
 fn main() {

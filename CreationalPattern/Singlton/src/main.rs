@@ -15,5 +15,5 @@ impl DB {
 }
 
 fn main() {
-    
+    DB::get_instance()
 }
